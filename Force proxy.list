@@ -1,0 +1,4 @@
+# Duolingo
+user-agent,Duolingo*,proxy
+host-suffix,duolingo.com,proxy
+host-suffix,duolingo.cn,proxy
