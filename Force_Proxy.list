@@ -3,5 +3,6 @@ user-agent,Duolingo*,proxy
 host-suffix,duolingo.com,proxy
 host-suffix,duolingo.cn,proxy
 
+host-keyword,acast,proxy
 host-suffix,ftchinese.com,proxy
 host-suffix,pocketcasts.com,proxy
