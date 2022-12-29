@@ -6,5 +6,5 @@ host-suffix,duolingo.cn,proxy
 host-suffix,ftchinese.com,proxy
 host-suffix,overcast.com,proxy
 host-suffix,overcast.fm,proxy
-host-suffix,overcast-cdn.com.proxy
+host-suffix,overcast-cdn.com,proxy
 host-suffix,pocketcasts.com,proxy
