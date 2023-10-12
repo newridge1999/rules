@@ -18,6 +18,7 @@ custom_proxy_group=SSID`ssid`default_group`celluar=group0,ssid1=group1,ssid2=gro
 ;custom_proxy_group=g2`select`!!GROUPID=1
 ;custom_proxy_group=v2ray`select`!!GROUP=V2RayProvider
 
+custom_proxy_group=Taiwan`select`!!GROUPID=0!!(台湾|tw)
 ;custom_proxy_group=g1hk`select`!!GROUPID=0!!(HGC|HKBN|PCCW|HKT|hk|港)
 ;custom_proxy_group=sstw`select`!!GROUP=V2RayProvider!!(深台|彰化|新北|台|tw)
 ;custom_proxy_group=provider`select`!!PROVIDER=prov1,prov2,prov3`fallback_nodes
