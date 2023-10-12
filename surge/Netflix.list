@@ -1,5 +1,5 @@
-DOMAIN-KEYWORD,netflix,Proxy
-DOMAIN-KEYWORD,nflx,Proxy
-DOMAIN-KEYWORD,dualstack.apiproxy-,Proxy
-DOMAIN-KEYWORD,dualstack.ichnaea-web-,Proxy
-DOMAIN-SUFFIX,us-west-2.amazonaws.com,Proxy
+DOMAIN-KEYWORD,netflix,Netflix
+DOMAIN-KEYWORD,nflx,Netflix
+DOMAIN-KEYWORD,dualstack.apiproxy-,Netflix
+DOMAIN-KEYWORD,dualstack.ichnaea-web-,Netflix
+DOMAIN-SUFFIX,us-west-2.amazonaws.com,Netflix
