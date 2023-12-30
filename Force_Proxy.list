@@ -1,7 +1,7 @@
 # Duolingo
-user-agent,Duolingo*,proxy
-host-suffix,duolingo.com,proxy
-host-suffix,duolingo.cn,proxy
+user-agent,Duolingo*,Duolingo
+host-suffix,duolingo.com,Duolingo
+host-suffix,duolingo.cn,Duolingo
 
 host-suffix,ftchinese.com,proxy
 host-suffix,api.onedrive.com,direct
