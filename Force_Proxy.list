@@ -5,7 +5,9 @@ host-suffix,duolingo.cn,Duolingo
 
 host-suffix,ftchinese.com,proxy
 host-suffix,api.onedrive.com,direct
+host-suffix,npmjs.org,proxy
 host-suffix,overcast.com,proxy
 host-suffix,overcast.fm,proxy
 host-suffix,overcast-cdn.com,proxy
+host-suffix,setapp.com,proxy
 host-suffix,pocketcasts.com,proxy
