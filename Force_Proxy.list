@@ -3,6 +3,10 @@ user-agent,Duolingo*,Duolingo
 host-suffix,duolingo.com,Duolingo
 host-suffix,duolingo.cn,Duolingo
 
+# Fandango
+host-suffix,fandango.com,US
+host-suffix,vudu.com,US
+
 host-suffix,ftchinese.com,proxy
 host-suffix,api.onedrive.com,direct
 host-suffix,npmjs.org,proxy
@@ -10,4 +14,7 @@ host-suffix,overcast.com,proxy
 host-suffix,overcast.fm,proxy
 host-suffix,overcast-cdn.com,proxy
 host-suffix,setapp.com,proxy
+host-suffix,tripcdn.com,US
 host-suffix,pocketcasts.com,proxy
+host-suffix,xhcdn.com,US
+host-suffix,doppiocdn.media,US
