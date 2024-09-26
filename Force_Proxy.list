@@ -7,6 +7,10 @@ host-suffix,duolingo.cn,Duolingo
 host-suffix,fandango.com,US
 host-suffix,vudu.com,US
 
+# Z-lib
+host-suffix,fcdn.sk,proxy
+host-suffix,z-library.sk,proxy
+
 host-suffix,ftchinese.com,proxy
 host-suffix,api.onedrive.com,direct
 host-suffix,npmjs.org,proxy
