@@ -11,15 +11,16 @@ host-suffix,vudu.com,US
 host-suffix,fcdn.sk,proxy
 host-suffix,z-library.sk,proxy
 
-host-suffix,ftchinese.com,proxy
 host-suffix,api.onedrive.com,direct
+host-suffix,doppiocdn.media,US
+host-suffix,ftchinese.com,proxy
+host-suffix,isgen.ai,isgen
 host-suffix,npmjs.org,proxy
 host-suffix,overcast.com,proxy
 host-suffix,overcast.fm,proxy
 host-suffix,overcast-cdn.com,proxy
+host-suffix,pocketcasts.com,proxy
 host-suffix,setapp.com,proxy
 host-suffix,tripcdn.com,US
-host-suffix,pocketcasts.com,proxy
-host-suffix,xhcdn.com,US
-host-suffix,doppiocdn.media,US
 host-suffix,wiktionary.org,proxy
+host-suffix,xhcdn.com,US
