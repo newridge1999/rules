@@ -22,5 +22,6 @@ host-suffix,overcast-cdn.com,proxy
 host-suffix,pocketcasts.com,proxy
 host-suffix,setapp.com,proxy
 host-suffix,tripcdn.com,US
+host-suffix,v2ex.com,proxy
 host-suffix,wiktionary.org,proxy
 host-suffix,xhcdn.com,US
