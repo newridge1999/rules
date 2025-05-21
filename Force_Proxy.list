@@ -16,6 +16,7 @@ host-suffix,doppiocdn.media,US
 host-suffix,ftchinese.com,proxy
 host-suffix,isgen.ai,isgen
 host-suffix,npmjs.org,proxy
+host-suffix,openrss.org,proxy
 host-suffix,overcast.com,proxy
 host-suffix,overcast.fm,proxy
 host-suffix,overcast-cdn.com,proxy
