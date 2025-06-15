@@ -16,6 +16,7 @@ host-suffix,fcdn.sk,proxy
 host-suffix,z-library.sk,proxy
 
 host-suffix,api.onedrive.com,direct
+host-suffix,cloudflarestorage.com,proxy
 host-suffix,diabrowser.com,proxy
 host-suffix,diabrowser.engineering,proxy
 host-suffix,doppiocdn.media,US
