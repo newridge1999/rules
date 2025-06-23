@@ -1,12 +1,3 @@
-# Apple Maps
-host-suffix,ls.apple.com,direct
-host-suffix,gs-loc.apple.com,direct
-
-# Duolingo
-user-agent,Duolingo*,Duolingo
-host-suffix,duolingo.com,Duolingo
-host-suffix,duolingo.cn,Duolingo
-
 # Fandango
 host-suffix,fandango.com,US
 host-suffix,vudu.com,US
