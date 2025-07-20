@@ -1,29 +1,29 @@
 # Fandango
-host-suffix,fandango.com,US
-host-suffix,vudu.com,US
+host-suffix,fandango.com
+host-suffix,vudu.com
 
 # Z-lib
-host-suffix,fcdn.sk,proxy
-host-suffix,z-library.sk,proxy
+host-suffix,fcdn.sk
+host-suffix,z-library.sk
 
 # Overcast
-host-suffix,overcast.com,proxy
-host-suffix,overcast.fm,proxy
-host-suffix,overcast-cdn.com,proxy
+host-suffix,overcast.com
+host-suffix,overcast.fm
+host-suffix,overcast-cdn.com
 
-host-suffix,api.onedrive.com,direct
-host-suffix,cloudflarestorage.com,proxy
-host-suffix,diabrowser.com,proxy
-host-suffix,diabrowser.engineering,proxy
-host-suffix,doppiocdn.media,US
-host-suffix,ftchinese.com,proxy
-host-suffix,isgen.ai,isgen
-host-suffix,npmjs.org,proxy
-host-suffix,onlyfans.com,proxy
-host-suffix,openrss.org,proxy
-host-suffix,pocketcasts.com,proxy
-host-suffix,setapp.com,proxy
-host-suffix,tripcdn.com,US
-host-suffix,v2ex.com,proxy
-host-suffix,wiktionary.org,proxy
-host-suffix,xhcdn.com,proxy
+host-suffix,api.onedrive.com
+host-suffix,cloudflarestorage.com
+host-suffix,diabrowser.com
+host-suffix,diabrowser.engineering
+host-suffix,doppiocdn.media
+host-suffix,ftchinese.com
+host-suffix,isgen.ai
+host-suffix,npmjs.org
+host-suffix,onlyfans.com
+host-suffix,openrss.org
+host-suffix,pocketcasts.com
+host-suffix,setapp.com
+host-suffix,tripcdn.com
+host-suffix,v2ex.com
+host-suffix,wiktionary.org
+host-suffix,xhcdn.com
