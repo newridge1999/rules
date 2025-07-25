@@ -1,4 +1,7 @@
-host-suffix,gg.apple.com
-host-suffix,mesu.apple.com
-host-suffix,ns.itunes.apple.com
-host-suffix,updates-http.cdn-apple.com
+# Apple Software Updates
+
+HOST-SUFFIX,gg.apple.com
+HOST-SUFFIX,mesu.apple.com
+HOST-SUFFIX,ns.itunes.apple.com
+HOST-SUFFIX,updates-http.cdn-apple.com
+HOST-SUFFIX,updates.cdn-apple.com
