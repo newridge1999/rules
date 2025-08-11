@@ -1,29 +1,31 @@
+# In Quantumult X format
+
 # Fandango
-host-suffix,fandango.com
-host-suffix,vudu.com
+host-suffix,fandango.com,CustomList
+host-suffix,vudu.com,CustomList
 
 # Z-lib
-host-suffix,fcdn.sk
-host-suffix,z-library.sk
+host-suffix,fcdn.sk,CustomList
+host-suffix,z-library.sk,CustomList
 
 # Overcast
-host-suffix,overcast.com
-host-suffix,overcast.fm
-host-suffix,overcast-cdn.com
+host-suffix,overcast.com,CustomList
+host-suffix,overcast.fm,CustomList
+host-suffix,overcast-cdn.com,CustomList
 
-host-suffix,api.onedrive.com
-host-suffix,cloudflarestorage.com
-host-suffix,diabrowser.com
-host-suffix,diabrowser.engineering
-host-suffix,doppiocdn.media
-host-suffix,ftchinese.com
-host-suffix,isgen.ai
-host-suffix,npmjs.org
-host-suffix,onlyfans.com
-host-suffix,openrss.org
-host-suffix,pocketcasts.com
-host-suffix,setapp.com
-host-suffix,tripcdn.com
-host-suffix,v2ex.com
-host-suffix,wiktionary.org
-host-suffix,xhcdn.com
+host-suffix,api.onedrive.com,CustomList
+host-suffix,cloudflarestorage.com,CustomList
+host-suffix,diabrowser.com,CustomList
+host-suffix,diabrowser.engineering,CustomList
+host-suffix,doppiocdn.media,CustomList
+host-suffix,ftchinese.com,CustomList
+host-suffix,isgen.ai,CustomList
+host-suffix,npmjs.org,CustomList
+host-suffix,onlyfans.com,CustomList
+host-suffix,openrss.org,CustomList
+host-suffix,pocketcasts.com,CustomList
+host-suffix,setapp.com,CustomList
+host-suffix,tripcdn.com,CustomList
+host-suffix,v2ex.com,CustomList
+host-suffix,wiktionary.org,CustomList
+host-suffix,xhcdn.com,CustomList
