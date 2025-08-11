@@ -1,31 +1,31 @@
 # In Quantumult X format
 
 # Fandango
-host-suffix,fandango.com,CustomList
-host-suffix,vudu.com,CustomList
+host-suffix,fandango.com,OutSide
+host-suffix,vudu.com,OutSide
 
 # Z-lib
-host-suffix,fcdn.sk,CustomList
-host-suffix,z-library.sk,CustomList
+host-suffix,fcdn.sk,OutSide
+host-suffix,z-library.sk,OutSide
 
 # Overcast
-host-suffix,overcast.com,CustomList
-host-suffix,overcast.fm,CustomList
-host-suffix,overcast-cdn.com,CustomList
+host-suffix,overcast.com,OutSide
+host-suffix,overcast.fm,OutSide
+host-suffix,overcast-cdn.com,OutSide
 
-host-suffix,api.onedrive.com,CustomList
-host-suffix,cloudflarestorage.com,CustomList
-host-suffix,diabrowser.com,CustomList
-host-suffix,diabrowser.engineering,CustomList
-host-suffix,doppiocdn.media,CustomList
-host-suffix,ftchinese.com,CustomList
-host-suffix,isgen.ai,CustomList
-host-suffix,npmjs.org,CustomList
-host-suffix,onlyfans.com,CustomList
-host-suffix,openrss.org,CustomList
-host-suffix,pocketcasts.com,CustomList
-host-suffix,setapp.com,CustomList
-host-suffix,tripcdn.com,CustomList
-host-suffix,v2ex.com,CustomList
-host-suffix,wiktionary.org,CustomList
-host-suffix,xhcdn.com,CustomList
+host-suffix,api.onedrive.com,OutSide
+host-suffix,cloudflarestorage.com,OutSide
+host-suffix,diabrowser.com,OutSide
+host-suffix,diabrowser.engineering,OutSide
+host-suffix,doppiocdn.media,OutSide
+host-suffix,ftchinese.com,OutSide
+host-suffix,isgen.ai,OutSide
+host-suffix,npmjs.org,OutSide
+host-suffix,onlyfans.com,OutSide
+host-suffix,openrss.org,OutSide
+host-suffix,pocketcasts.com,OutSide
+host-suffix,setapp.com,OutSide
+host-suffix,tripcdn.com,OutSide
+host-suffix,v2ex.com,OutSide
+host-suffix,wiktionary.org,OutSide
+host-suffix,xhcdn.com,OutSide
