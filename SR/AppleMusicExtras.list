@@ -1,5 +1,4 @@
 # NAME:: AppleMusicExtras
 # in Shadoworocket format
 
-DOMAIN,play.itunes.apple.com
-DOMAIN,se.itunes.apple.com
+DOMAIN-SUFFIX,itunes.apple.com
