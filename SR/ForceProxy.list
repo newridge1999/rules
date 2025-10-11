@@ -1,0 +1,30 @@
+# Fandango
+DOMAIN-SUFFIX,fandango.com
+DOMAIN-SUFFIX,vudu.com
+
+# Z-lib
+DOMAIN-SUFFIX,fcdn.sk
+DOMAIN-SUFFIX,z-library.sk
+
+# Overcast
+DOMAIN-SUFFIX,overcast.com
+DOMAIN-SUFFIX,overcast.fm
+DOMAIN-SUFFIX,overcast-cdn.com
+
+DOMAIN-SUFFIX,alfred.app
+DOMAIN-SUFFIX,api.onedrive.com
+DOMAIN-SUFFIX,cloudflarestorage.com
+DOMAIN-SUFFIX,diabrowser.com
+DOMAIN-SUFFIX,diabrowser.engineering
+DOMAIN-SUFFIX,doppiocdn.media
+DOMAIN-SUFFIX,ftchinese.com
+DOMAIN-SUFFIX,isgen.ai
+DOMAIN-SUFFIX,npmjs.org
+DOMAIN-SUFFIX,onlyfans.com
+DOMAIN-SUFFIX,openrss.org
+DOMAIN-SUFFIX,pocketcasts.com
+DOMAIN-SUFFIX,setapp.com
+DOMAIN-SUFFIX,tripcdn.com
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,wiktionary.org
+DOMAIN-SUFFIX,xhcdn.com
