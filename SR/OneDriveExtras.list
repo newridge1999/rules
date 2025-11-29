@@ -1,4 +1,4 @@
 # OneDrive Extras
 
-# DOMAIN-SUFFIX,my.microsoftpersonalcontent.com
+DOMAIN-SUFFIX,my.microsoftpersonalcontent.com
 DOMAIN-SUFFIX,aa-rt.sharepoint.com
