@@ -2,14 +2,14 @@
 # FORMAT: Shadowrocket
 # NOTE: Non-geo-locked services only
 
-## Apple Podcasts
+# Apple Podcasts
 DOMAIN-SUFFIX,podcasts.apple.com
 
-## Fandango
+# Fandango
 DOMAIN-SUFFIX,fandango.com
 DOMAIN-SUFFIX,vudu.com
 
-## Overcast
+# Overcast
 DOMAIN-SUFFIX,overcast.com
 DOMAIN-SUFFIX,overcast.fm
 DOMAIN-SUFFIX,overcast-cdn.com
@@ -30,6 +30,6 @@ DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,wiktionary.org
 DOMAIN-SUFFIX,xhcdn.com
 
-## Z-lib
+# Z-lib
 DOMAIN-SUFFIX,fcdn.sk
 DOMAIN-SUFFIX,z-library.sk
